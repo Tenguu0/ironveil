@@ -1,6 +1,8 @@
 # Ironveil
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-threejs--fps--02-f2a33c)](https://make.fun/bounty/threejs-fps-02)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/Tenguu0/ironveil/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/Tenguu0/ironveil/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![three.js 0.187.0](https://img.shields.io/badge/three.js-0.187.0-049ef4)](https://threejs.org/)
 
